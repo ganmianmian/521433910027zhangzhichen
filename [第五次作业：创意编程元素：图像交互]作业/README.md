@@ -1,9 +1,13 @@
 创建您自己的定制设计软件。
+这是一个键盘鼠标交互的程序
 
-### 作业要求
+键盘敲击n就会出现n
 
-- 至少有两个功能按钮，这些按钮的具体功能（如画笔样式、颜色、动作等）请自行设定；
-- 利用这个工具绘制并导出一个美观的示例草图
-- 通过readme.md说明这个定制设计软件的功能和使用方法。
+![image-20211025002627388](C:\Users\晨晨酱\AppData\Roaming\Typora\typora-user-images\image-20211025002627388.png)
 
-✏️使用readme.md进行作业介绍与说明，可通过图文等形式丰富readme.md中的内容
+键盘敲击h就会出现h
+
+<img src="C:\Users\晨晨酱\Desktop\39fdfef9e98edf310666a0890b82e35.jpg" alt="39fdfef9e98edf310666a0890b82e35" style="zoom:25%;" />
+
+<img src="C:\Users\晨晨酱\Desktop\a786aa66ab7dbe020779a0fcd2051a9.jpg" alt="a786aa66ab7dbe020779a0fcd2051a9" style="zoom:33%;" />
+非常的可爱子
